@@ -19,5 +19,4 @@ Detect_Object is a Python application that uses OpenCV to detect objects shown i
 To run Detect_Object locally, follow these steps:
 
 1. Clone the repository:
-git clone https://github.com/your_username/detect_object.git
-cd detect_object
+
