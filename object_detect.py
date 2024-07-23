@@ -33,7 +33,7 @@ def perform_object_detection(cap):
                     cv2.putText(frame, class_labels[ClassInd - 1], (boxes[0] + 10, boxes[1] + 40), font,
                                 fontScale=font_scale, color=(0, 255, 0), thickness=3)
 
-                    # Classify the detected object
+                  
                     classification = classify_objects(ClassInd, class_labels)
                     print(f"Object: {class_labels[ClassInd - 1]}, Classification: {classification}")
 
