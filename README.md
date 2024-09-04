@@ -8,7 +8,7 @@ Detect_Object is a Python application that uses OpenCV to detect objects shown i
 - **Real-time Processing:** Provides instant feedback on detected objects.
 - **Interactive Interface:** Displays the names of detected objects on the screen.
 
-## Technologies Used
+## Technologies Us
 
 - **Python:** Main programming language for development.
 - **OpenCV (Open Source Computer Vision Library):** Used for image and video processing tasks.
