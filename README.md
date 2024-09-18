@@ -4,8 +4,4 @@ Detect_Object is a Python application that uses OpenCV to detect objects shown i
 
 ## Features
 
-- **Obj
-
-
-
 
